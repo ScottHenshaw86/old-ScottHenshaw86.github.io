@@ -1,9 +1,8 @@
 # Site settings
-title: Scott
+title: Scott's Git practice site.
 author:
   name: Scott
   email: ScottHenshaw86@gmail.com
-description: "Great site to practive with Git."
 
 # Build settings
 remote_theme: pages-themes/slate@v0.2.0
